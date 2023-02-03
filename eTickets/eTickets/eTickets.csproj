@@ -7,11 +7,28 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Data\Services\IOrdersService.cs" />
-    <Compile Remove="Data\Services\OrdersService.cs" />
+    <None Include="Views\Account\AccessDenied.cshtml" />
+    <None Include="Views\Account\Login.cshtml" />
+    <None Include="Views\Account\Register.cshtml" />
+    <None Include="Views\Account\RegisterCompleted.cshtml" />
+    <None Include="Views\Account\Users.cshtml" />
+    <None Include="Views\Actors\Create.cshtml" />
+    <None Include="Views\Actors\Index.cshtml" />
+    <None Include="Views\Cinemas\Index.cshtml" />
+    <None Include="Views\Movies\Index.cshtml" />
+    <None Include="Views\Orders\Index.cshtml" />
+    <None Include="Views\Orders\OrderCompleted.cshtml" />
+    <None Include="Views\Orders\ShoppingCart.cshtml" />
+    <None Include="Views\Producers\Create.cshtml" />
+    <None Include="Views\Producers\Index.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.Identity.AspNetCoreCompat" Version="0.3.4" />
+    <PackageReference Include="Microsoft.AspNet.Identity.Core" Version="2.2.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.Service" Version="1.0.0-preview1-final" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.Service.EntityFrameworkCore" Version="1.0.0-preview1-final" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="7.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="7.0.2" />

@@ -9,8 +9,8 @@ namespace eTickets.Data.Services
 {
     public class OrdersService : IOrdersService
     {
-        private readonly AppDbContext _context;
-        public OrdersService(AppDbContext context)
+        private readonly ApplicationDbContext _context;
+        public OrdersService(ApplicationDbContext context)
         {
             _context = context;
         }
