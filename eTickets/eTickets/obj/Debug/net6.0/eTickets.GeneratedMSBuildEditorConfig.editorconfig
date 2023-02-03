@@ -15,12 +15,36 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\ASP DOT NET CORE WEB APPLICATION(MVC)\eTickets\eTickets
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/ASP DOT NET CORE WEB APPLICATION(MVC)/eTickets/eTickets/Views/Actors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ASP DOT NET CORE WEB APPLICATION(MVC)/eTickets/eTickets/Views/Actors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ASP DOT NET CORE WEB APPLICATION(MVC)/eTickets/eTickets/Views/Cinemas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/ASP DOT NET CORE WEB APPLICATION(MVC)/eTickets/eTickets/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/ASP DOT NET CORE WEB APPLICATION(MVC)/eTickets/eTickets/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ASP DOT NET CORE WEB APPLICATION(MVC)/eTickets/eTickets/Views/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ASP DOT NET CORE WEB APPLICATION(MVC)/eTickets/eTickets/Views/Producers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ASP DOT NET CORE WEB APPLICATION(MVC)/eTickets/eTickets/Views/Producers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/ASP DOT NET CORE WEB APPLICATION(MVC)/eTickets/eTickets/Views/Shared/Error.cshtml]
